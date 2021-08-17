@@ -19,10 +19,10 @@ Make a CLI quiz app and show total score at the end.
 
 ### Screenshot
 
-![](social-proof-section.png)
+![](mark1.png)
 
 
 ### Links
 
 
-[- Live Site URL](https://your-live-site-url.com)
+[- Live Site URL](https://replit.com/@player01x/neoGmark1?embed=1&output=1#index.js)
